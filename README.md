@@ -1,19 +1,13 @@
-string charset = {"", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "I", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"};
+- 👋 Hi, I’m @Brunin008
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-Console.Write("Digite sua senha: ");
+<!---
+Brunin008/Brunin008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-string senha = Console.ReadLine();
-
-string tentativa = "";
-
-for (int c = 0; c menor que 27; c++)
-
-{ for (int c2 = 0; c2 menor que 27; с2++) { for (int c3 = 0; c3 menor que 27; c3++) { for (int c4 = 0; c4 menor que 27; c4++) { tentativa = charset[c] + charset[c2] + charset[c3] + charset[c4]; if (tentativa == senha) { } cc2c3 c4 = 27;
-
-}
-
-}
-
-}
-
-}
